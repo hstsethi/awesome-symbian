@@ -3,15 +3,29 @@
 [<img src="symbian-logo.png" align="right" width="100">](https://en.wikipedia.org/wiki/Symbian)
 > An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment is C++/QT, but J2ME, Python, C, Flash Lite are supported as well.
 
-Please give it a star(⭐) to support the development. 
+Please give it a star(⭐) to support the development. Also check out [Awesome J2ME](https://github.com/awesome-j2me).
 
 ---
 
 ## Contents
 
+   - [Contents](#contents)
+   - [Emulators](#emulators)
+   - [Development](#development)
+      - [IDEs](#ides)
+   - [Theme Making](#theme-making)
+      - [Device Specific Plugins](#device-specific-plugins)
+   - [Reverse Engineering](#reverse-engineering)
+   - [Related Projects](#related-projects)
+   - [Communities](#communities)
+   - [Native Software](#native-software)
+      - [Video Games](#video-games)
+   - [Tutorials](#tutorials)
+
+---
+
 ## Emulators
 
-## Tutorials
 
 ## Development
 
@@ -20,7 +34,7 @@ Please give it a star(⭐) to support the development.
 - [RVDS 4.1 Suite Service Pack 2](https://mega.nz/#!i5cwESYT!W1nZv0V2ciITLtNsgHeYjeOpLb2rh8NMdUkR5kS7PSY) - An advanced RVDS suite for Windows.
 - [ARM Compiler Toolchain v4.1 for RVDS 4.1](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) - A toolchain specifically for ARM development on RVDS 4.1.
 - [ActivePerl 5.6.1.635](https://mega.nz/#!i182nTbb!SVwZnLumFSdlLOT2erXBn_Rs7akTx9cFG2FQAOMLxWk) - A version of Perl required by older SDKs. 
-- [Java JRE 1.3.1_01](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
+- [Java JRE 1.3.101](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
 
 
 ### IDEs
@@ -71,6 +85,8 @@ Please give it a star(⭐) to support the development.
 
 ## Communities
 
+---
+
 ## Native Software 
 
 - [Symbian ToolBox](http://symbian.host-ed.me/) - A collection of tools for Symbian devices, including a file explorer and an IRC client.
@@ -82,7 +98,8 @@ Please give it a star(⭐) to support the development.
 
 
 ---
-## Documentation
+
+## Tutorials 
 
 - [Symbian C++ by А. Н Труфанов](https://github.com/trufanov-nok/SymbianBook_ru) - A Russian book on C++ programming for Symbian 9.x, published in 2010.
 - [Step by step tutorial for your first Symbian Application](https://github.com/sapandiwakar/Symbian-Application-Development-Tutorials) - A tutorial to develop your first Symbian application.
