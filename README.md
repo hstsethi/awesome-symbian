@@ -36,7 +36,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [ARM Compiler Toolchain v4.1 for RVDS 4.1](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) - A toolchain specifically for ARM development on RVDS 4.1.
 - [ActivePerl 5.6.1.635](https://mega.nz/#!i182nTbb!SVwZnLumFSdlLOT2erXBn_Rs7akTx9cFG2FQAOMLxWk) - A version of Perl required by older SDKs. 
 - [Java JRE 1.3.101](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
-
+- [Qt Quick Components for Symbian](https://github.com/djbozkosz/Symbian-HomeScreen-Widget-QML) - QML-based UI components for Symbian homescreen widgets.  
 
 ### IDEs
 
@@ -92,8 +92,18 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 - [Symbian ToolBox](http://symbian.host-ed.me/) - A collection of tools for Symbian devices, including a file explorer and an IRC client.
 - [OpenTTD Symbian Port](http://team.pld-linux.org/~wolf/symbian/) - The port of OpenTTD for Symbian. Additional information is available through the [forum](https://www.tt-forums.net/viewtopic.php?t=35942).
-- [Dictionnaries](https://github.com/goldendict/goldendict/issues/765) - A collection of open source dictionaries for Symbian OS.
-
+- [Dictionaries](https://github.com/goldendict/goldendict/issues/765) - A collection of open source dictionaries for Symbian OS.
+- [RotateIt](https://github.com/Vitalii17/RotateIt) - A screen rotation utility for Symbian devices.  
+- [NanoCounter](https://github.com/Vitalii17/NanoCounter) - A lightweight counter app for Symbian.  
+- [CuteTube](https://github.com/marxoft/cutetube2/) - A YouTube client for Symbian OS.  
+- [QRemoteControl-Client](https://github.com/strahlex/QRemoteControl-Client) - A remote control client application for Symbian.  
+- [Star Browser](https://github.com/Allstar12345/Star-Browser-Symbian) - A Qt-based web browser for Symbian Anna/Belle.  
+- [X-plore](https://github.com/Symbian9/X-plore_free) - Dual-pane file manager for Symbian with ZIP support and cloud integration.  
+- [ProfiMail](https://github.com/Symbian9/ProfiMail_free) - Advanced email client supporting IMAP, SSL, and HTML rendering.  
+- [FShell](https://github.com/d3ru/FShell) - Command-line shell for Symbian OS with scripting capabilities.  
+- [FileList](https://github.com/ltomuta/filelist) - Qt Quick app for browsing multimedia files and launching them in external apps (e.g., opening images in Photos).  
+- [fahrplan](https://github.com/smurfy/fahrplan) - Public transport schedule viewer with offline support.  
+- [internet-radio](https://github.com/fedor4ever/internet-radio) - Streaming radio player with playlist management.
 
 ### Video Games
 
