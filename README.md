@@ -1,6 +1,7 @@
 # Awesome Symbian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s.
+[<img src="symbian-logo.jpg" align="right" width="100">](https://en.wikipedia.org/wiki/Symbian)
+> An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment is C++/QT, but J2ME, Python, C, Flash Lite are supported as well.
 
 Please give it a star(⭐) to support the development. 
 
@@ -11,7 +12,6 @@ Please give it a star(⭐) to support the development.
 ## Emulators
 
 ## Tutorials
-
 
 ## Development
 
