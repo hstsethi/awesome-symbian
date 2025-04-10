@@ -1,5 +1,6 @@
 # Awesome Symbian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s.
 
 Please give it a star(⭐) to support the development. 
 
@@ -14,7 +15,7 @@ Please give it a star(⭐) to support the development.
 
 ## Development
 
-- [GCCE 4.6.3](https://mega.nz/#!e0dzADLA!3bOw1EAhke79HT9EWVlZarCz1tXpa6gkFYjTE1SFiFI / https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) - A GNU toolchain for Symbian with Linux and MinGW32 versions.
+- [GCCE 4.6.3](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) - A GNU toolchain for Symbian with Linux and MinGW32 versions.
 - [RVDS 4.0 Professional Service Pack 3](https://mega.nz/#!nlk1QZxD!H4N04USb-TE1kQk0K141muqKdbVzMsZDT6HPibZxDFo) - A professional compiler suite for Windows.
 - [RVDS 4.1 Suite Service Pack 2](https://mega.nz/#!i5cwESYT!W1nZv0V2ciITLtNsgHeYjeOpLb2rh8NMdUkR5kS7PSY) - An advanced RVDS suite for Windows.
 - [ARM Compiler Toolchain v4.1 for RVDS 4.1](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) - A toolchain specifically for ARM development on RVDS 4.1.
