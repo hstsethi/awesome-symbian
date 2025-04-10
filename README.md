@@ -1,6 +1,23 @@
 # Awesome Symbian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-An Awesome List about everything related to Symbian devices by the creator of Awesome J2ME
+
+Please give it a star(⭐) to support the development. 
+
+---
+
+## Contents
+
+- [Emulators](#emulators)
+- [Development](#development)
+    - [SDKs](#sdks)
+    - [IDEs](#ides)
+- [Reverse Engineering](#reverse-engineering)
+    - [Decompilers](#decompilers)
+- [Native Software](#native-software)
+    - [Video Games](#video-games)
+- [Related Projects](#related-projects)
+- [Tutorials](#tutorials)
+- [Communities](#communities)
 
 ## Emulators
 
@@ -28,3 +45,7 @@ An Awesome List about everything related to Symbian devices by the creator of Aw
 - [Symbian ToolBox](http://symbian.host-ed.me/) - A collection of tools for Symbian devices, including a file explorer and an IRC client.
 - [OpenTTD Symbian Port](http://team.pld-linux.org/~wolf/symbian/) - The port of OpenTTD for Symbian. Additional information is available through the [forum](https://www.tt-forums.net/viewtopic.php?t=35942).
 - [Dictionnaries](https://github.com/goldendict/goldendict/issues/765) - A collection of open source dictionaries for Symbian OS.
+
+
+### Video Games
+
