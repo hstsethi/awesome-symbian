@@ -79,3 +79,16 @@ Please give it a star(⭐) to support the development.
 
 ### Video Games
 
+
+---
+## Documentation
+
+- [Symbian C++ by А. Н Труфанов](https://github.com/trufanov-nok/SymbianBook_ru) - A Russian book on C++ programming for Symbian 9.x, published in 2010.
+- [Step by step tutorial for your first Symbian Application](https://github.com/sapandiwakar/Symbian-Application-Development-Tutorials) - A tutorial to develop your first Symbian application.
+- [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm) - A guide to create a .sis application using Python.
+- [Install a game on a N-Gage (Ru)](http://rutracker.org/forum/viewtopic.php?t=329313) - A tutorial for installing a game on a N-Gage.
+- [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) - File format specifications for the E32Image (.app) files.
+- [E32Image explanation](http://web.archive.org/web/20070616175615/http://www.antonypranata.com/articles/e32fileformat.html) - An explanation of the E32Image format.
+- [Symbian Sis file before Symbian 9.1 (.sis)](http://www.thoukydides.webspace.virginmedia.com/sis.html) - Details on the Sis file format prior to Symbian 9.1.
+- [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM) - Information about the Symbian Multibitmap (.mbm) format.
+- [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF) - Specifications for the Symbian Application Information File (.aif).
