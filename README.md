@@ -11,8 +11,25 @@ Please give it a star(⭐) to support the development.
 
 ## Tutorials
 
+
 ## Development
 
+- [GCCE 4.6.3](https://mega.nz/#!e0dzADLA!3bOw1EAhke79HT9EWVlZarCz1tXpa6gkFYjTE1SFiFI / https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) - A GNU toolchain for Symbian with Linux and MinGW32 versions.
+- [RVDS 4.0 Professional Service Pack 3](https://mega.nz/#!nlk1QZxD!H4N04USb-TE1kQk0K141muqKdbVzMsZDT6HPibZxDFo) - A professional compiler suite for Windows.
+- [RVDS 4.1 Suite Service Pack 2](https://mega.nz/#!i5cwESYT!W1nZv0V2ciITLtNsgHeYjeOpLb2rh8NMdUkR5kS7PSY) - An advanced RVDS suite for Windows.
+- [ARM Compiler Toolchain v4.1 for RVDS 4.1](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) - A toolchain specifically for ARM development on RVDS 4.1.
+- [ActivePerl 5.6.1.635](https://mega.nz/#!i182nTbb!SVwZnLumFSdlLOT2erXBn_Rs7akTx9cFG2FQAOMLxWk) - A version of Perl required by older SDKs. 
+- [Java JRE 1.3.1_01](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
+
+
+### IDEs
+
+- [Carbide C++ 2.7](https://mega.nz/#!O1MmCZbD!1BqQIOU_jkdolg3GWORzKljYhAq53asfFDGouY8rrHU) - An IDE for Symbian development based on Eclipse. 
+- [Carbide C++ 3.2](https://mega.nz/#!Kt1wkArK!Aylrqj6x7LOw5DxdfJGbEeRK114698t-FuTV3MVzxSA) - An updated edition of the Eclipse-based IDE.
+- [Nokia WebTools 1.2.0](https://mega.nz/#!yx0VEayA!HBC-cGWVwX_Pymxwb4_YGCt8KmrDxteHZZm2chAHImk) - A suite for web-based application development including a simulator and designer.
+- [Sun One Studio Update 1 Mobile Edition](https://mega.nz/#!m0dWARKD!_n9hvxYR8V1HxcrnyMptfDhUcgO3Coo82M_NovgPT7M) - A mobile edition of the Sun One Studio released in 2002. 
+
+---
 
 ## Theme Making
 
@@ -35,9 +52,9 @@ Please give it a star(⭐) to support the development.
 
 - [Nokia 7710 Theme Studio](https://mega.nz/#!30UwFK7S!1XMD3vsIMaTXTw78uNp1RBzd690vmpZwhM6aERgXWwI) - A dedicated theme making tool for Nokia 7710.
 
-### SDKs
+---
 
-### IDEs
+
 ## Reverse Engineering
 
 - [E32Explorer](https://github.com/mrRosset/E32Explorer) - A tool that visualizes different parts of a Symbian OS E32Image, including preliminary support for the TRomImage format.
