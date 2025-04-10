@@ -26,6 +26,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 ## Emulators
 
+-[EKA2L1](https://github.com/EKA2L1/EKA2L1)- Emulates Symbian OS/N-Gage's kernel, and reimplement most of its critical app servers and libraries.
 
 ## Development
 
