@@ -1,7 +1,7 @@
 # Awesome Symbian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="symbian-logo.png" align="right" width="100">](https://en.wikipedia.org/wiki/Symbian)
-> An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment is C++/QT, but J2ME, Python, C, Flash Lite are supported as well.
+> An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment, post S60, is C++/QT, but J2ME, Python, C, Flash Lite are supported as well.
 
 Please give it a star(⭐) to support the development. Also check out [Awesome J2ME](https://github.com/awesome-j2me).
 
@@ -36,12 +36,13 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [ARM Compiler Toolchain v4.1 for RVDS 4.1](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) - A toolchain specifically for ARM development on RVDS 4.1.
 - [ActivePerl 5.6.1.635](https://mega.nz/#!i182nTbb!SVwZnLumFSdlLOT2erXBn_Rs7akTx9cFG2FQAOMLxWk) - A version of Perl required by older SDKs. 
 - [Java JRE 1.3.101](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
-- [Qt Quick Components for Symbian](https://github.com/djbozkosz/Symbian-HomeScreen-Widget-QML) - QML-based UI components for Symbian homescreen widgets.  
+- [Qt Quick Components for Symbian](https://github.com/djbozkosz/Symbian-HomeScreen-Widget-QML) - QML-based UI components for Symbian homescreen widgets.
+
 
 ### IDEs
 
-- [Carbide C++ 2.7](https://mega.nz/#!O1MmCZbD!1BqQIOU_jkdolg3GWORzKljYhAq53asfFDGouY8rrHU) - An IDE for Symbian development based on Eclipse. 
-- [Carbide C++ 3.2](https://mega.nz/#!Kt1wkArK!Aylrqj6x7LOw5DxdfJGbEeRK114698t-FuTV3MVzxSA) - An updated edition of the Eclipse-based IDE.
+- [Carbide C++ 2.7](https://mega.nz/#!O1MmCZbD!1BqQIOU_jkdolg3GWORzKljYhAq53asfFDGouY8rrHU) - An Eclipse based IDE for Symbian development by Nokia.
+- [Carbide C++ 3.2](https://mega.nz/#!Kt1wkArK!Aylrqj6x7LOw5DxdfJGbEeRK114698t-FuTV3MVzxSA) - Carbide C++ 3.2 version.
 - [Nokia WebTools 1.2.0](https://mega.nz/#!yx0VEayA!HBC-cGWVwX_Pymxwb4_YGCt8KmrDxteHZZm2chAHImk) - A suite for web-based application development including a simulator and designer.
 - [Sun One Studio Update 1 Mobile Edition](https://mega.nz/#!m0dWARKD!_n9hvxYR8V1HxcrnyMptfDhUcgO3Coo82M_NovgPT7M) - A mobile edition of the Sun One Studio released in 2002. 
 
@@ -121,3 +122,4 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Symbian Sis file before Symbian 9.1 (.sis)](http://www.thoukydides.webspace.virginmedia.com/sis.html) - Details on the Sis file format prior to Symbian 9.1.
 - [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM) - Information about the Symbian Multibitmap (.mbm) format.
 - [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF) - Specifications for the Symbian Application Information File (.aif).
+- [QT Support for Symbian](https://wiki.qt.io/Support_for_Symbian) - Official QT wiki page for Symbian. Contains detailed information on what versions are supported on what device.
