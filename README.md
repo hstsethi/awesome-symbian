@@ -1,7 +1,7 @@
 # Awesome Symbian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="symbian-logo.png" align="right" width="100">](https://en.wikipedia.org/wiki/Symbian)
-> An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment, post S60, is C++/QT, but J2ME, Python, C, Flash Lite are supported as well.
+> An Awesome List about everything related to Symbian, a discontinued mobile OS for ARM popular in early 2000s. It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/QT, but J2ME, Python, C, Flash Lite are supported as well.
 
 Please give it a star(⭐) to support the development. Also check out [Awesome J2ME](https://github.com/awesome-j2me).
 
@@ -38,6 +38,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Java JRE 1.3.101](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
 - [Qt Quick Components for Symbian](https://github.com/djbozkosz/Symbian-HomeScreen-Widget-QML) - QML-based UI components for Symbian homescreen widgets.
 
+- [Symbian Xcode Plugin](https://web.archive.org/web/20060716125348/http://symbian-xcode-plugin.tigris.org/) - GPL licensed Xcode plugin to enable Symbian development on Mac OS X.
 
 ### IDEs
 
