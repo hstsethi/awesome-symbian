@@ -124,3 +124,4 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM) - Information about the Symbian Multibitmap (.mbm) format.
 - [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF) - Specifications for the Symbian Application Information File (.aif).
 - [QT Support for Symbian](https://wiki.qt.io/Support_for_Symbian) - Official QT wiki page for Symbian. Contains detailed information on what versions are supported on what device.
+- [The Accredited Symbian Developer Primer: Fundamentals of Symbian OS](https://www.wiley.com/en-us/The+Accredited+Symbian+Developer+Primer%3A+Fundamentals+of+Symbian+OS-p-9780470058695) - Official textbook for Accredited Symbian Developer exam. Covers both C++ and Symbian C++.
