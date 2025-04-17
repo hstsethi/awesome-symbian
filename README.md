@@ -83,14 +83,15 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 ## Related Projects
 
 - [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - An awesome list about Java platform Micro edition[(J2ME)](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition), a Java specification designed for old keypad phones and PDAs.
-
--  [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) - Archive and website for Symbian related downloads.
-
+- [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) - Archive and website for Symbian related downloads.
+- [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME related resources.
 
 ## Communities
 
 - [r/Symbian](https://reddit.com/r/Symbian] - English language Symbian community on Reddit.
-  
+- [Nokia N-Gage Discord](https://discord.gg/dbUzqJ26vs) - Active N-Gage community on Discord.
+- [Symbian World Telegram](https://t.me/symbian_world) - One of the most active Symbian community on Telegram.
+
 ---
 
 ## Native Software 
