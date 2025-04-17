@@ -88,6 +88,8 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 ## Communities
 
+- [r/Symbian](https://reddit.com/r/Symbian] - English language Symbian community on Reddit.
+  
 ---
 
 ## Native Software 
