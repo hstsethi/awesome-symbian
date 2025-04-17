@@ -28,6 +28,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 - [EKA2L1](https://github.com/EKA2L1/EKA2L1)- Emulates Symbian OS/N-Gage's kernel, and reimplement most of its critical app servers and libraries.
 
+
 ## Development
 
 - [GCCE 4.6.3](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) - A GNU toolchain for Symbian with Linux and MinGW32 versions.
@@ -108,10 +109,12 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [FileList](https://github.com/ltomuta/filelist) - Qt Quick app for browsing multimedia files and launching them in external apps (e.g., opening images in Photos).  
 - [fahrplan](https://github.com/smurfy/fahrplan) - Public transport schedule viewer with offline support.  
 - [internet-radio](https://github.com/fedor4ever/internet-radio) - Streaming radio player with playlist management.
+- [Emulator Collection](https://drive.google.com/drive/folders/176IQoFOp_7xEtOyq8I23iVtctB0_4lam) - Google drive of 31+ emulators **for Symbian** device, not of Symbian.
 
 ### Video Games
 
-- [List of Symbian Games: Mobygames](https://www.mobygames.com/platform/symbian/) - List of Symbian games along with screenshots, release date and descriptions, reviews. 
+- [List of Symbian Games: Mobygames](https://www.mobygames.com/platform/symbian/) - List of Symbian games along with screenshots, release date and descriptions, reviews.
+
 ---
 
 ## Tutorials 
@@ -128,3 +131,4 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [QT Support for Symbian](https://wiki.qt.io/Support_for_Symbian) - Official QT wiki page for Symbian. Contains detailed information on what versions are supported on what device.
 - [The Accredited Symbian Developer Primer: Fundamentals of Symbian OS](https://www.wiley.com/en-us/The+Accredited+Symbian+Developer+Primer%3A+Fundamentals+of+Symbian+OS-p-9780470058695) - Official textbook for Accredited Symbian Developer exam. Covers both C++ and Symbian C++.
 - [Quick Recipes on Symbian OS: Mastering C++ Smartphone Development](https://www.oreilly.com/library/view/quick-recipes-on/9780470997833/) - Fast paced book covering both S60 and UIQ. Assumes a strong foundational knowledge of C++. Uses EIKON, not QT.
+- [Symbian Programming Books Collection](https://drive.google.com/folderview?id=1vbW4hP06DeZvSwAX1MS_p52mNmSJs9iS) - Google Drive collection of Symbian and some J2ME books more than 600mb.
