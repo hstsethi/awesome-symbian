@@ -1,7 +1,8 @@
 
-Please follow the following guidelines when contributing: 
+Please follow the following guidelines when contributing, in addition to guidelines mentioned in Awesome Manifesto: 
 
-1. The entry must be about MIDP. Entries related to general Java, Java-ME embedded or anything else are NOT allowed. Please contribute Symbian related entries to [Awesome Symbian](https://github.com/hstsethi/awesome-symbian). Tutorials, academic papers, official documentation, development tools are highly encouraged though any contribution is always welcome.
+
+1. The entry must be about Symbian. It is **not limited to S\* Series**. Entries related to general Java, Java-ME embedded, general C++, QT or anything else are NOT allowed. Please contribute J2ME related entries to [Awesome J2ME](https://github.com/hstsethi/awesome-j2me). Tutorials, academic papers, development tools are highly encouraged though any contribution is always welcome."
 
 2. All links must be valid. If the original link is dead then try to link any archived version.
 
