@@ -88,7 +88,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 ## Communities
 
-- [r/Symbian](https://reddit.com/r/Symbian] - English language Symbian community on Reddit.
+- [r/Symbian](https://reddit.com/r/Symbian) - English language Symbian community on Reddit.
 - [Nokia N-Gage Discord](https://discord.gg/dbUzqJ26vs) - Active N-Gage community on Discord.
 - [Symbian World Telegram](https://t.me/symbian_world) - One of the most active Symbian community on Telegram.
 - [EKAL21](https://discord.gg/5Bm5SJ9) - EKAL21 Discord server. Official link taken from the website.
