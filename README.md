@@ -58,7 +58,6 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 ### Device Specific Plugins
 
 - [S60v3 FP1](https://mega.nz/#!Pt92jY6Y!VPjnd5y82cvz_Vcb5c97gx5t4feobzwe_pc77UnYQOk) - Plug-in for S60v3 FP1.
-- [S60v3 FP2](https://mega.nz/#!Pt92jY6Y!VPjnd5y82cvz_Vcb5c97gx5t4feobzwe_pc77UnYQOk) - Plug-in for S60v3 FP2.
 - [S60v5](https://mega.nz/#!rx1HRbaa!S9M1JKei94-HuuNU6tc6I83iBgCj8Cxf9LrB-bgTrkE) - Plug-in for S60v5.
 - [Symbian³ (Compilation)](https://mega.nz/#!7llQDCrR!a2uoIz09At1lqJzO1_DfmSK9RfRKL0ErFjnRRBAijd8) - Plug-in for compiling with Symbian³.
 - [Symbian³ Belle FP1](https://mega.nz/#!7oMlFBjS!ld0TIMRsYAnBNsRDBGotspm8J-9UwUDedO7r8JTQKh8) - Belle edition plug-in for Symbian³ FP1.
