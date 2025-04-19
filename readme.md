@@ -9,7 +9,6 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 ## Contents
 
-- [Contents](#contents)
 - [Emulators](#emulators)
 - [Development](#development)
    - [IDEs](#ides)
