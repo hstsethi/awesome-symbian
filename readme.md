@@ -9,18 +9,18 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 ## Contents
 
-   - [Contents](#contents)
-   - [Emulators](#emulators)
-   - [Development](#development)
-      - [IDEs](#ides)
-   - [Theme Making](#theme-making)
-      - [Device Specific Plugins](#device-specific-plugins)
-   - [Reverse Engineering](#reverse-engineering)
-   - [Related Projects](#related-projects)
-   - [Communities](#communities)
-   - [Native Software](#native-software)
-      - [Video Games](#video-games)
-   - [Tutorials](#tutorials)
+- [Contents](#contents)
+- [Emulators](#emulators)
+- [Development](#development)
+   - [IDEs](#ides)
+- [Theme Making](#theme-making)
+   - [Device Specific Plugins](#device-specific-plugins)
+- [Reverse Engineering](#reverse-engineering)
+- [Related Projects](#related-projects)
+- [Communities](#communities)
+- [Native Software](#native-software)
+   - [Video Games](#video-games)
+- [Tutorials](#tutorials)
 
 ---
 
@@ -39,7 +39,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Java JRE 1.3.101](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
 - [Qt Quick Components for Symbian](https://github.com/djbozkosz/Symbian-HomeScreen-Widget-QML) - QML-based UI components for Symbian homescreen widgets.
 
-- [Symbian Xcode Plugin](https://web.archive.org/web/20060716125348/http://symbian-xcode-plugin.tigris.org/) - GPL licensed Xcode plugin to enable Symbian development on Mac OS X.
+- [Symbian Xcode Plugin](https://web.archive.org/web/20060716125348/http://symbian-xcode-plugin.tigris.org/) - GPL licensed Xcode plugin to enable Symbian development on MacOS.
 
 ### IDEs
 
