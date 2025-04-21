@@ -1,7 +1,7 @@
 # Awesome Symbian [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 [<img src="symbian-logo.png" align="right" width="100">](https://en.wikipedia.org/wiki/Symbian)
-> An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. Symbian is a discontinued mobile OS for ARM popular in early 2000s. It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/QT, but J2ME, Python, C, Flash Lite are supported as well. 
+> An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. Symbian is a discontinued mobile OS for ARM popular in early 2000s. It had two major UIs: S60(Nokia), and UIQ(Sony Ericsson). It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/QT, but J2ME, Python, C, Flash Lite, C# are supported as well. 
     
 
 Please give it a star(⭐) to support the development. Also check out [Awesome J2ME](https://github.com/hstsethi/awesome-j2me).
@@ -130,5 +130,6 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF) - Specifications for the Symbian Application Information File (.aif).
 - [QT Support for Symbian](https://wiki.qt.io/Support_for_Symbian) - Official QT wiki page for Symbian. Contains detailed information on what versions are supported on what device.
 - [The Accredited Symbian Developer Primer: Fundamentals of Symbian OS](https://www.wiley.com/en-us/The+Accredited+Symbian+Developer+Primer%3A+Fundamentals+of+Symbian+OS-p-9780470058695) - Official textbook for Accredited Symbian Developer exam. Covers both C++ and Symbian C++.
-- [Quick Recipes on Symbian OS: Mastering C++ Smartphone Development](https://www.oreilly.com/library/view/quick-recipes-on/9780470997833/) - Fast paced book covering both S60 and UIQ. Assumes a strong foundational knowledge of C++. Uses EIKON, not QT.
+- [Quick Recipes on Symbian OS: Mastering C++ Smartphone Development](https://www.oreilly.com/library/view/quick-recipes-on/9780470997833/) - Fast paced book covering both S60 and UIQ. Assumes a strong foundational knowledge of C++. Uses UIKON, not QT.
 - [Symbian Programming Books Collection](https://drive.google.com/folderview?id=1vbW4hP06DeZvSwAX1MS_p52mNmSJs9iS) - Google Drive collection of Symbian and some J2ME books more than 600mb.
+- [Smartphone Operating System Concepts with Symbian OS: A Tutorial Guide](https://www.wiley.com/en-us/Smartphone+Operating+System+Concepts+with+Symbian+OS%3A+A+Tutorial+Guide-p-9780470065235) - Textbook on operating systems. Uses comparision between Symbian OS with Windows, Linux to illustrate the concepts. Contains lot of practice questions. Knowledge of C, C++ and general operating systems is required.
