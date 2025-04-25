@@ -104,7 +104,6 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [QRemoteControl-Client](https://github.com/strahlex/QRemoteControl-Client) - A remote control client application for Symbian.  
 - [Star Browser](https://github.com/Allstar12345/Star-Browser-Symbian) - A Qt-based web browser for Symbian Anna/Belle.  
 - [X-plore](https://github.com/Symbian9/X-plore_free) - Dual-pane file manager for Symbian with ZIP support and cloud integration.  
-- [ProfiMail](https://github.com/Symbian9/ProfiMail_free) - Advanced email client supporting IMAP, SSL, and HTML rendering.  
 - [FShell](https://github.com/d3ru/FShell) - Command-line shell for Symbian OS with scripting capabilities.  
 - [FileList](https://github.com/ltomuta/filelist) - Qt Quick app for browsing multimedia files and launching them in external apps (e.g., opening images in Photos).  
 - [fahrplan](https://github.com/smurfy/fahrplan) - Public transport schedule viewer with offline support.  
