@@ -21,7 +21,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Native Software](#native-software)
    - [Video Games](#video-games)
 - [Tutorials](#tutorials)
-
+    - [Academic Articles](#academic-articles)
 ---
 
 ## Emulators
@@ -132,3 +132,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Quick Recipes on Symbian OS: Mastering C++ Smartphone Development](https://www.oreilly.com/library/view/quick-recipes-on/9780470997833/) - Fast paced book covering both S60 and UIQ. Assumes a strong foundational knowledge of C++. Uses UIKON, not QT.
 - [Symbian Programming Books Collection](https://drive.google.com/folderview?id=1vbW4hP06DeZvSwAX1MS_p52mNmSJs9iS) - Google Drive collection of Symbian and some J2ME books more than 600mb.
 - [Smartphone Operating System Concepts with Symbian OS: A Tutorial Guide](https://www.wiley.com/en-us/Smartphone+Operating+System+Concepts+with+Symbian+OS%3A+A+Tutorial+Guide-p-9780470065235) - Textbook on operating systems. Uses comparision between Symbian OS with Windows, Linux to illustrate the concepts. Contains lot of practice questions. Knowledge of C, C++ and general operating systems is required.
+
+### Academic Articles
+
+- [Acquisition of a Symbian Smart phone’s Content with an On-Phone Forensic Tool](https://mo.co.za/open/symbianfor.pdf) - Proposes a dd-like, memory card based foresnic tool for Symbian devices.  Also offers a short-introduction to the foreniscs, and Symbian ecosystem.
