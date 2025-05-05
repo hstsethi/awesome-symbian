@@ -13,6 +13,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Emulators](#emulators)
 - [Development](#development)
    - [IDEs](#ides)
+- [Hardware](#hardware)
 - [Theme Making](#theme-making)
    - [Device Specific Plugins](#device-specific-plugins)
 - [Reverse Engineering](#reverse-engineering)
@@ -48,6 +49,10 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Nokia WebTools 1.2.0](https://mega.nz/#!yx0VEayA!HBC-cGWVwX_Pymxwb4_YGCt8KmrDxteHZZm2chAHImk) - A suite for web-based application development including a simulator and designer.
 - [Sun One Studio Update 1 Mobile Edition](https://mega.nz/#!m0dWARKD!_n9hvxYR8V1HxcrnyMptfDhUcgO3Coo82M_NovgPT7M) - A mobile edition of the Sun One Studio released in 2002. 
 - [CodeWarrior Development Tools For Symbian OS Professional Edition v1.0](https://archive.org/details/CodeWarriorDevelopmentToolsForSymbianOSProfessionalEdition1.0) - Official development environment for Symbian until Carabide was released. Not recommended, prefer Carabide.
+
+## Hardware
+
+- [List of S40 devices](https://en.m.wikipedia.org/wiki/Category:Series_40_devices) - List of S40 devices on Wikipedia.
 
 ## Theme Making
 
