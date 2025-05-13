@@ -88,6 +88,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [Awesome J2ME](https://github.com/hstsethi/awesome-j2me) - An awesome list about Java platform Micro edition[(J2ME)](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition), a Java specification designed for old keypad phones and PDAs.
 - [Symbian Archive](https://github.com/mrRosset/Symbian-Archive) - Archive and website for Symbian related downloads.
 - [nnproject.cc](https://nnproject.cc) - Website of nnproject. Curated list of Symbian and J2ME related resources.
+- [Awesome CPP](https://github.com/fffaraz/awesome-cpp) - A curated list of awesome C++ (or C) frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
 
 ## Communities
 
