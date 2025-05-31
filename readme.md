@@ -66,6 +66,8 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 - [List of S40 devices](https://en.m.wikipedia.org/wiki/Category:Series_40_devices) - List of S40 devices on Wikipedia.
 
+- [Symbian OS ROMs Collection (Internet Archive)](https://archive.org/details/symbian-os-roms_202010)  - Downloadable RPKG ROM images for devices like Nokia 5320, 5800, N95, E5, and N-Gage, for emulation, reverse engineering, or device restoration.
+
 ---
 
 ## Native Software
