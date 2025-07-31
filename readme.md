@@ -86,6 +86,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [fahrplan](https://github.com/smurfy/fahrplan) - Public transport schedule viewer with offline support.
 - [internet-radio](https://github.com/fedor4ever/internet-radio) - Streaming radio player with playlist management.
 - [Emulator Collection](https://drive.google.com/drive/folders/176IQoFOp_7xEtOyq8I23iVtctB0_4lam) - Google drive of 31+ emulators for Symbian devices.
+- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet is not required. Supported only in India.
 
 ### Video Games
 
