@@ -92,6 +92,8 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 - [List of Symbian Games: Mobygames](https://www.mobygames.com/platform/symbian/) - List of Symbian games along with screenshots, release dates, descriptions, and reviews.
 
+- [Symbian Games at MyAbandonware](https://www.myabandonware.com/browse/platform/symbian) - Curated catalog of abandoned Symbian games with direct downloads.
+
 ---
 
 ## Related Projects
