@@ -31,7 +31,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [r/Symbian](https://reddit.com/r/Symbian) - English language Symbian community on Reddit.
 - [Nokia N-Gage Discord](https://discord.gg/dbUzqJ26vs) - Active N-Gage community on Discord.
 - [Symbian World Telegram](https://t.me/symbian_world) - One of the most active Symbian communities on Telegram.
-- [EKAL21](https://discord.gg/5Bm5SJ9) - EKAL21 Discord server. Official link taken from the website.
+- [EKAL21](https://discord.gg/5Bm5SJ9) -  Discord server of EKAL21. Official link taken from the website.
 
 ---
 
@@ -49,7 +49,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 ### IDEs
 
 - [Carbide C++ 2.7](https://mega.nz/#!O1MmCZbD!1BqQIOU_jkdolg3GWORzKljYhAq53asfFDGouY8rrHU) - An Eclipse-based IDE for Symbian development by Nokia.
-- [Carbide C++ 3.2](https://mega.nz/#!Kt1wkArK!Aylrqj6x7LOw5DxdfJGbEeRK114698t-FuTV3MVzxSA) - Carbide C++ 3.2 version.
+- [Carbide C++ 3.2](https://mega.nz/#!Kt1wkArK!Aylrqj6x7LOw5DxdfJGbEeRK114698t-FuTV3MVzxSA) - 3.2 version of Carbide C++ IDE.
 - [Nokia WebTools 1.2.0](https://mega.nz/#!yx0VEayA!HBC-cGWVwX_Pymxwb4_YGCt8KmrDxteHZZm2chAHImk) - A suite for web-based application development including a simulator and designer.
 - [Sun One Studio Update 1 Mobile Edition](https://mega.nz/#!m0dWARKD!_n9hvxYR8V1HxcrnyMptfDhUcgO3Coo82M_NovgPT7M) - A mobile edition of the Sun One Studio released in 2002.
 - [CodeWarrior Development Tools For Symbian OS Professional Edition v1.0](https://archive.org/details/CodeWarriorDevelopmentToolsForSymbianOSProfessionalEdition1.0) - Official development environment for Symbian OS.
@@ -64,7 +64,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 ## Hardware
 
-- [List of S40 devices](https://en.m.wikipedia.org/wiki/Category:Series_40_devices) - List of S40 devices on Wikipedia.
+- [List of S40 devices](https://en.m.wikipedia.org/wiki/Category:Series_40_devices) - Comprehensive list of S40 devices on Wikipedia.
 
 - [Symbian OS ROMs Collection (Internet Archive)](https://archive.org/details/symbian-os-roms_202010)  - Downloadable RPKG ROM images for devices like Nokia 5320, 5800, N95, E5, and N-Gage, for emulation, reverse engineering, or device restoration.
 
@@ -85,7 +85,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 - [FileList](https://github.com/ltomuta/filelist) - Qt Quick app for browsing multimedia files and launching them in external apps (e.g., opening images in Photos).
 - [fahrplan](https://github.com/smurfy/fahrplan) - Public transport schedule viewer with offline support.
 - [internet-radio](https://github.com/fedor4ever/internet-radio) - Streaming radio player with playlist management.
-- [Emulator Collection](https://drive.google.com/drive/folders/176IQoFOp_7xEtOyq8I23iVtctB0_4lam) - Google drive of 31+ emulators for Symbian devices.
+- [Emulator Collection](https://drive.google.com/drive/folders/176IQoFOp_7xEtOyq8I23iVtctB0_4lam) - Google Drive of 31+ emulators for Symbian devices.
 - [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet is not required. Supported only in India.
 
 ### Video Games
@@ -152,6 +152,6 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
   
 ### Academic Articles
 
- - [Acquisition of a Symbian Smart phone’s Content with an On-Phone Forensic Tool](https://mo.co.za/open/symbianfor.pdf) - Proposes a dd-like, memory card-based forensic tool for Symbian devices. Allows acquisition of phone content without altering the device state.
+- [Acquisition of a Symbian Smart phone’s Content with an On-Phone Forensic Tool](https://mo.co.za/open/symbianfor.pdf) - Proposes a dd-like, memory card-based forensic tool for Symbian devices. Allows acquisition of phone content without altering the device state.
 
 
