@@ -37,7 +37,7 @@ Please give it a star(⭐) to support the development. Also check out [Awesome J
 
 ## Development
 
-- [GCCE 4.6.3](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) - A GNU toolchain for Symbian with Linux and MinGW32 versions.
+- [GCCE 4.6.3](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) - A GNU toolchain for Symbian with [Linux](https://mega.nz/file/e0dzADLA#3bOw1EAhke79HT9EWVlZarCz1tXpa6gkFYjTE1SFiFI) and [MinGW32](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) versions.
 - [RVDS 4.0 Professional Service Pack 3](https://mega.nz/#!nlk1QZxD!H4N04USb-TE1kQk0K141muqKdbVzMsZDT6HPibZxDFo) - A professional compiler suite for Windows.
 - [RVDS 4.1 Suite Service Pack 2](https://mega.nz/#!i5cwESYT!W1nZv0V2ciITLtNsgHeYjeOpLb2rh8NMdUkR5kS7PSY) - An advanced RVDS suite for Windows.
 - [ARM Compiler Toolchain v4.1 for RVDS 4.1](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) - A toolchain specifically for ARM development on RVDS 4.1.
