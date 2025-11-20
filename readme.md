@@ -92,8 +92,8 @@ Please give it a star(⭐) to support the development. Also check out Awesome J2
 ### Video Games
 
 - [List of Symbian Games: Mobygames](https://www.mobygames.com/platform/symbian/) - List of Symbian games along with screenshots, release dates, descriptions, and reviews.
-
 - [Symbian Games at MyAbandonware](https://www.myabandonware.com/browse/platform/symbian) - Curated catalog of abandoned Symbian games with direct downloads.
+- [N-Gage Games Speedruns](https://www.speedrun.com/games?platform=83exlkel) - List of all speedruns related to J2ME games along with guides, discussions and screen recordings.
 
 ---
 
