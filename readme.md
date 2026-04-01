@@ -5,15 +5,12 @@
 > An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. Symbian is a discontinued mobile OS for ARM popular in early 2000s. It had two major UIs: S60(Nokia), and UIQ(Sony Ericsson). It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/Qt, but J2ME, Python, C, Flash Lite, C# are supported as well. 
 
 
-Please give it a star(⭐) to support the development. Also check out Awesome J2ME.
-
 ---
 
 ## Contents
 
 - [Communities](#communities)
 - [Development](#development)
-   - [IDEs](#ides)
 - [Emulators](#emulators)
 - [Hardware](#hardware)
 - [Native Software](#native-software)
@@ -38,22 +35,11 @@ Please give it a star(⭐) to support the development. Also check out Awesome J2
 
 ## Development
 
-- [GCCE 4.6.3](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) - A GNU toolchain for Symbian with [Linux](https://mega.nz/file/e0dzADLA#3bOw1EAhke79HT9EWVlZarCz1tXpa6gkFYjTE1SFiFI) and [MinGW32](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) versions.
-- [GCC4Symbian)[https://github.com/fedor4ever/GCC4Symbian) - Scripts to compile bleedind-edge GCC for Symbian. [Releases](https://sourceforge.net/projects/gcce4symbian).
+- [GCC4Symbian][https://github.com/fedor4ever/GCC4Symbian] - Scripts to compile bleedind-edge GCC for Symbian. [Releases](https://sourceforge.net/projects/gcce4symbian).
 - [RVDS 4.0 Professional Service Pack 3](https://mega.nz/#!nlk1QZxD!H4N04USb-TE1kQk0K141muqKdbVzMsZDT6HPibZxDFo) - A professional compiler suite for Windows.
-- [RVDS 4.1 Suite Service Pack 2](https://mega.nz/#!i5cwESYT!W1nZv0V2ciITLtNsgHeYjeOpLb2rh8NMdUkR5kS7PSY) - An advanced RVDS suite for Windows.
-- [ARM Compiler Toolchain v4.1 for RVDS 4.1](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) - A toolchain specifically for ARM development on RVDS 4.1.
-- [ActivePerl 5.6.1.635](https://mega.nz/#!i182nTbb!SVwZnLumFSdlLOT2erXBn_Rs7akTx9cFG2FQAOMLxWk) - A version of Perl required by older SDKs.
 - [Java JRE 1.3.101](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
 - [Qt Quick Components for Symbian](https://github.com/djbozkosz/Symbian-HomeScreen-Widget-QML) - QML-based UI components for Symbian homescreen widgets.
 - [Symbian Xcode Plugin](https://web.archive.org/web/20060716125348/http://symbian-xcode-plugin.tigris.org/) - GPL licensed Xcode plugin to enable Symbian development on macOS.
-
-### IDEs
-
-- [Carbide C++ 2.7](https://mega.nz/#!O1MmCZbD!1BqQIOU_jkdolg3GWORzKljYhAq53asfFDGouY8rrHU) - An Eclipse-based IDE for Symbian development by Nokia.
-- [Carbide C++ 3.2](https://mega.nz/#!Kt1wkArK!Aylrqj6x7LOw5DxdfJGbEeRK114698t-FuTV3MVzxSA) - 3.2 version of Carbide C++ IDE.
-- [Nokia WebTools 1.2.0](https://mega.nz/#!yx0VEayA!HBC-cGWVwX_Pymxwb4_YGCt8KmrDxteHZZm2chAHImk) - A suite for web-based application development including a simulator and designer.
-- [Sun One Studio Update 1 Mobile Edition](https://mega.nz/#!m0dWARKD!_n9hvxYR8V1HxcrnyMptfDhUcgO3Coo82M_NovgPT7M) - A mobile edition of the Sun One Studio released in 2002.
 - [CodeWarrior Development Tools For Symbian OS Professional Edition v1.0](https://archive.org/details/CodeWarriorDevelopmentToolsForSymbianOSProfessionalEdition1.0) - Official development environment for Symbian OS.
 
 ---
@@ -88,7 +74,6 @@ Please give it a star(⭐) to support the development. Also check out Awesome J2
 - [fahrplan](https://github.com/smurfy/fahrplan) - Public transport schedule viewer with offline support.
 - [internet-radio](https://github.com/fedor4ever/internet-radio) - Streaming radio player with playlist management.
 - [Emulator Collection](https://drive.google.com/drive/folders/176IQoFOp_7xEtOyq8I23iVtctB0_4lam) - Google Drive of 31+ emulators for Symbian devices.
-- [UPI 123PAY](https://www.npci.org.in/what-we-do/upi-123pay/product-overview) - Official Unified Payment Interface(UPI)payments solution for feature phones by NPCI. Internet is not required. Supported only in India.
 - [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
 
 ### Video Games
@@ -141,7 +126,6 @@ Please give it a star(⭐) to support the development. Also check out Awesome J2
 - [Symbian C++ by А. Н Труфанов](https://github.com/trufanov-nok/SymbianBook_ru) - A Russian book on C++ programming for Symbian 9.x, published in 2010.
 - [Step by step tutorial for your first Symbian Application](https://github.com/sapandiwakar/Symbian-Application-Development-Tutorials) - A tutorial to develop your first Symbian application.
 - [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm) - A guide to create a .sis application using Python.
-- [Install a game on a N-Gage (Ru)](http://rutracker.org/forum/viewtopic.php?t=329313) - A tutorial for installing a game on a N-Gage.
 - [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) - File format specifications for the E32Image (.app) files.
 - [E32Image explanation](http://web.archive.org/web/20070616175615/http://www.antonypranata.com/articles/e32fileformat.html) - An explanation of the E32Image format.
 - [Symbian Sis file before Symbian 9.1 (.sis)](http://www.thoukydides.webspace.virginmedia.com/sis.html) - Details on the Sis file format prior to Symbian 9.1.
