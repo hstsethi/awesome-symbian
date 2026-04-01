@@ -52,8 +52,6 @@
 
 ## Hardware
 
-- [List of S40 devices](https://en.m.wikipedia.org/wiki/Category:Series_40_devices) - Comprehensive list of S40 devices on Wikipedia.
-
 - [Symbian OS ROMs Collection (Internet Archive)](https://archive.org/details/symbian-os-roms_202010)  - Downloadable RPKG ROM images for devices like Nokia 5320, 5800, N95, E5, and N-Gage, for emulation, reverse engineering, or device restoration.
 
 ---
@@ -80,7 +78,7 @@
 
 - [List of Symbian Games: Mobygames](https://www.mobygames.com/platform/symbian/) - List of Symbian games along with screenshots, release dates, descriptions, and reviews.
 - [Symbian Games at MyAbandonware](https://www.myabandonware.com/browse/platform/symbian) - Curated catalog of abandoned Symbian games with direct downloads.
-- [N-Gage Games Speedruns](https://www.speedrun.com/games?platform=83exlkel) - List of all speedruns related to J2ME games along with guides, discussions and screen recordings.
+- [N-Gage Games Speedruns](https://www.speedrun.com/games?platform=83exlkel) - List of all speedruns related to N-Gage games along with guides, discussions and screen recordings.
 
 ---
 
