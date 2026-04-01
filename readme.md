@@ -2,7 +2,7 @@
 
 [<img src="symbian-logo.png" align="right" width="100">](https://en.wikipedia.org/wiki/Symbian)
 
-> An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. Symbian is a discontinued mobile OS for ARM popular in early 2000s. It had two major UIs: S60(Nokia), and UIQ(Sony Ericsson). It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/Qt, but J2ME, Python, C, Flash Lite, C# are supported as well. 
+> An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. Symbian is a discontinued mobile OS for ARM popular in early 2000s. It had two major UIs: S60(Nokia), and UIQ(Sony Ericsson). It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/Qt, but J2ME, Python, C, Flash Lite, C# are supported as well.
 
 
 ---
@@ -133,7 +133,7 @@
 - [Quick Recipes on Symbian OS: Mastering C++ Smartphone Development](https://www.oreilly.com/library/view/quick-recipes-on/9780470997833/) - Fast-paced book covering both S60 and UIQ. Assumes a strong foundation in C++.
 - [Symbian Programming Books Collection](https://drive.google.com/folderview?id=1vbW4hP06DeZvSwAX1MS_p52mNmSJs9iS) - Google Drive collection of Symbian and some J2ME books, totaling more than 600 MB.
 - [Smartphone Operating System Concepts with Symbian OS: A Tutorial Guide](https://www.wiley.com/en-us/Smartphone+Operating+System+Concepts+with+Symbian+OS%3A+A+Tutorial+Guide-p-9780470065235) - Textbook offering a comprehensive introduction to Symbian OS concepts.
-  
+
 ### Academic Articles
 
 - [Acquisition of a Symbian Smart phone’s Content with an On-Phone Forensic Tool](https://mo.co.za/open/symbianfor.pdf) - Proposes a dd-like, memory card-based forensic tool for Symbian devices. Allows acquisition of phone content without altering the device state.
