@@ -18,7 +18,7 @@
 - [Related Projects](#related-projects)
 - [Reverse Engineering](#reverse-engineering)
 - [Theme Making](#theme-making)
-   - [Device Specific Plugins](#device-specific-plugins)
+    - [Device Specific Plugins](#device-specific-plugins)
 - [Tutorials](#tutorials)
     - [Academic Articles](#academic-articles)
 ---
@@ -35,8 +35,7 @@
 
 ## Development
 
-- [GCC4Symbian][https://github.com/fedor4ever/GCC4Symbian] - Scripts to compile bleedind-edge GCC for Symbian. [Releases](https://sourceforge.net/projects/gcce4symbian).
-- [RVDS 4.0 Professional Service Pack 3](https://mega.nz/#!nlk1QZxD!H4N04USb-TE1kQk0K141muqKdbVzMsZDT6HPibZxDFo) - A professional compiler suite for Windows.
+- [GCC4Symbian](https://github.com/fedor4ever/GCC4Symbian) - Scripts to compile bleeding-edge GCC for Symbian. [Releases](https://sourceforge.net/projects/gcce4symbian).
 - [Java JRE 1.3.101](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) - A legacy Java runtime essential for early SDK dependencies.
 - [Qt Quick Components for Symbian](https://github.com/djbozkosz/Symbian-HomeScreen-Widget-QML) - QML-based UI components for Symbian homescreen widgets.
 - [Symbian Xcode Plugin](https://web.archive.org/web/20060716125348/http://symbian-xcode-plugin.tigris.org/) - GPL licensed Xcode plugin to enable Symbian development on macOS.
@@ -138,5 +137,3 @@
 ### Academic Articles
 
 - [Acquisition of a Symbian Smart phone’s Content with an On-Phone Forensic Tool](https://mo.co.za/open/symbianfor.pdf) - Proposes a dd-like, memory card-based forensic tool for Symbian devices. Allows acquisition of phone content without altering the device state.
-
-
