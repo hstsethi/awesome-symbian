@@ -72,7 +72,7 @@
 - [internet-radio](https://github.com/fedor4ever/internet-radio) - Streaming radio player with playlist management.
 - [Emulator Collection](https://drive.google.com/drive/folders/176IQoFOp_7xEtOyq8I23iVtctB0_4lam) - Google Drive of 31+ emulators for Symbian devices.
 - [Opera FTP Archive](https://ftp.opera.com/pub/opera) - Official FTP archive of various versions of Opera browser for all supported platforms.
-- [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) Whisk 3D - 2D/3D creation tool for modeling, rendering, animation, and game development.
+- [Whisk3D](https://github.com/Dante-Leoncini/Whisk3D) - 2D/3D creation tool for modeling, rendering, animation, and game development.
 
 ### Video Games
 
