@@ -57,7 +57,7 @@
 ## Native Software
 
 - [Symbian ToolBox](http://symbian.host-ed.me/) <sup>(dead)</sup> - A collection of tools for Symbian devices, including a file explorer and an IRC client.
-- [OpenTTD Symbian Port](http://team.pld-linux.org/~wolf/symbian/) <sup>([archived](https://web.archive.org/web/20191117161821/http://team.pld-linux.org/~wolf/symbian/))</sup> - The port of OpenTTD for Symbian. Additional information is available through the [forum](https://www.tt-forums.net/viewtopic.php?t=65210).
+- [OpenTTD Symbian Port](https://web.archive.org/web/20191117161821/http://team.pld-linux.org/~wolf/symbian/) - The port of OpenTTD for Symbian. Additional information is available through the [forum](https://www.tt-forums.net/viewtopic.php?t=65210).
 - [Dictionaries](https://github.com/goldendict/goldendict/issues/765) - A collection of open-source dictionaries for Symbian OS.
 - [RotateIt](https://github.com/Vitalii17/RotateIt) - A screen rotation utility for Symbian devices.
 - [NanoCounter](https://github.com/Vitalii17/NanoCounter) - A lightweight counter app for Symbian.
