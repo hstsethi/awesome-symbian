@@ -4,7 +4,6 @@
 
 > An Awesome List about everything related to Symbian OS. Documentation, academic papers, tutorials, communities, IDEs, SDKs, emulators, apps, video games. Symbian is a discontinued mobile OS for ARM popular in early 2000s. It had two major UIs: S60(Nokia), and UIQ(Sony Ericsson). It supports `.jar`, `.jad`, `.sis`, `.sisx` formats. The main development environment since S60 is C++/Qt, but J2ME, Python, C, Flash Lite, C# are supported as well.
 
-
 ---
 
 ## Contents
@@ -14,15 +13,15 @@
 - [Emulators](#emulators)
 - [Hardware](#hardware)
 - [Native Software](#native-software)
-   - [Video Games](#video-games)
+  - [Video Games](#video-games)
 - [Related Projects](#related-projects)
 - [Reverse Engineering](#reverse-engineering)
 - [Theme Making](#theme-making)
-    - [Device Specific Plugins](#device-specific-plugins)
+  - [Device Specific Plugins](#device-specific-plugins)
 - [Tutorials](#tutorials)
-    - [Academic Articles](#academic-articles)
----
+  - [Academic Articles](#academic-articles)
 
+---
 
 ## Communities
 
@@ -57,15 +56,15 @@
 
 ## Native Software
 
-- [Symbian ToolBox](http://symbian.host-ed.me/) - A collection of tools for Symbian devices, including a file explorer and an IRC client.
-- [OpenTTD Symbian Port](http://team.pld-linux.org/~wolf/symbian/) - The port of OpenTTD for Symbian. Additional information is available through the [forum](https://www.tt-forums.net/viewtopic.php?t=65210).
+- [Symbian ToolBox](http://symbian.host-ed.me/) <sup>(dead)</sup> - A collection of tools for Symbian devices, including a file explorer and an IRC client.
+- [OpenTTD Symbian Port](http://team.pld-linux.org/~wolf/symbian/) <sup>([archived](https://web.archive.org/web/20191117161821/http://team.pld-linux.org/~wolf/symbian/))</sup> - The port of OpenTTD for Symbian. Additional information is available through the [forum](https://www.tt-forums.net/viewtopic.php?t=65210).
 - [Dictionaries](https://github.com/goldendict/goldendict/issues/765) - A collection of open-source dictionaries for Symbian OS.
 - [RotateIt](https://github.com/Vitalii17/RotateIt) - A screen rotation utility for Symbian devices.
 - [NanoCounter](https://github.com/Vitalii17/NanoCounter) - A lightweight counter app for Symbian.
 - [CuteTube](https://github.com/marxoft/cutetube2/) - A YouTube client for Symbian OS.
 - [QRemoteControl-Client](https://github.com/strahlex/QRemoteControl-Client) - A remote control client application for Symbian.
 - [Star Browser](https://github.com/Allstar12345/Star-Browser-Symbian) - A Qt-based web browser for Symbian Anna/Belle.
-- [X-plore](https://github.com/Symbian9/X-plore_free) - Dual-pane file manager for Symbian with ZIP support and cloud integration.
+- [X-plore](https://github.com/Symbian9/X-plore_free) <sup>([archived](https://web.archive.org/web/20210112090243/https://github.com/Symbian9/X-plore_free))</sup> - Dual-pane file manager for Symbian with ZIP support and cloud integration.
 - [FShell](https://github.com/d3ru/FShell) - Command-line shell for Symbian OS with scripting capabilities.
 - [FileList](https://github.com/ltomuta/filelist) - Qt Quick app for browsing multimedia files and launching them in external apps (e.g., opening images in Photos).
 - [fahrplan](https://github.com/smurfy/fahrplan) - Public transport schedule viewer with offline support.
@@ -93,7 +92,7 @@
 ## Reverse Engineering
 
 - [E32Explorer](https://github.com/mrRosset/E32Explorer) - A tool that visualizes different parts of a Symbian OS E32Image, including preliminary support for the TRomImage format.
-- [RomBrowser](https://github.com/Florin9doi/rombrowser) - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump) or [SDumper](https://github.com/Florin9doi/sdumper).
+- [RomBrowser](https://github.com/Florin9doi/rombrowser) - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump) or [SDumper](https://github.com/Florin9doi/sdumper) <sup>(dead)</sup>.
 
 ---
 
@@ -126,6 +125,7 @@
 - [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) - File format specifications for the E32Image (.app) files.
 - [E32Image explanation](http://web.archive.org/web/20070616175615/http://www.antonypranata.com/articles/e32fileformat.html) - An explanation of the E32Image format.
 - [Symbian Sis file before Symbian 9.1 (.sis)](http://www.thoukydides.webspace.virginmedia.com/sis.html) - Details on the Sis file format prior to Symbian 9.1.
+- [Symbian Sis file before Symbian 9.1 (.sis)](http://www.thoukydides.webspace.virginmedia.com/sis.html) <sup>([archived](https://web.archive.org/web/20151028130518/http://www.thoukydides.webspace.virginmedia.com/sis.html))</sup> - Details on the Sis file format prior to Symbian 9.1.
 - [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM) - Information about the Symbian Multibitmap (.mbm) format.
 - [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF) - Specifications for the Symbian Application Information File (.aif).
 - [Qt Support for Symbian](https://wiki.qt.io/Support_for_Symbian) - Official Qt wiki page for Symbian. Contains detailed information on what versions are supported on which devices.
