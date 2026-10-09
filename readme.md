@@ -45,6 +45,7 @@
 ## Emulators
 
 - [EKA2L1](https://github.com/EKA2L1/EKA2L1) - Emulates Symbian OS/N-Gage's kernel and reimplements most of its critical app servers and libraries.
+- [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance) - Browser-based N-Gage/Symbian emulator and debugger (alpha): boots a device ROM, steps through and inspects it, reads N-Gage containers, and runs a bundled CC0 N-Gage program with no files needed.
 
 ---
 
@@ -94,6 +95,7 @@
 
 - [E32Explorer](https://github.com/mrRosset/E32Explorer) - A tool that visualizes different parts of a Symbian OS E32Image, including preliminary support for the TRomImage format.
 - [RomBrowser](https://github.com/Florin9doi/rombrowser) - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump) or [SDumper](https://github.com/Florin9doi/sdumper) <sup>(dead)</sup>.
+- [Symbian ROM Explorer](https://binarybacktrace.com/tools/symbian_rom_explorer) - Reads a Symbian device ROM in the browser: the z: directory tree with each entry's iType and the 269-row exec dispatch table.
 
 ---
 
