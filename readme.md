@@ -94,7 +94,7 @@
 ## Reverse Engineering
 
 - [E32Explorer](https://github.com/mrRosset/E32Explorer) - A tool that visualizes different parts of a Symbian OS E32Image, including preliminary support for the TRomImage format.
-- [RomBrowser](https://github.com/Florin9doi/rombrowser) - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump) or [SDumper](https://github.com/Florin9doi/sdumper) <sup>(dead)</sup>.
+- [RomBrowser](https://github.com/Florin9doi/rombrowser) - A utility for visualizing ROM dump contents. ROM images can be produced using [romdump](https://github.com/Florin9doi/romdump).
 - [Symbian Seance](https://binarybacktrace.com/tools/symbian_seance?view=rom) - Reads a Symbian device ROM in the browser: the z: directory tree with each entry's iType, the 269-row exec dispatch table and the evidence behind each exec; the ROM explorer is now a view inside the emulator/debugger workbench.
 
 ---
@@ -128,8 +128,6 @@
 - [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) - File format specifications for the E32Image (.app) files.
 - [E32Image explanation](http://web.archive.org/web/20070616175615/http://www.antonypranata.com/articles/e32fileformat.html) - An explanation of the E32Image format.
 - [Symbian Sis file before Symbian 9.1 (.sis)](https://web.archive.org/web/20151028130518/http://www.thoukydides.webspace.virginmedia.com/sis.html) - Details on the Sis file format prior to Symbian 9.1.
-- [Symbian Multibitmap (.mbm)](http://fileformats.archiveteam.org/wiki/EPOC_MBM) - Information about the Symbian Multibitmap (.mbm) format.
-- [Symbian Application Information File (.aif)](http://fileformats.archiveteam.org/wiki/EPOC_AIF) - Specifications for the Symbian Application Information File (.aif).
 - [Qt Support for Symbian](https://wiki.qt.io/Support_for_Symbian) - Official Qt wiki page for Symbian. Contains detailed information on what versions are supported on which devices.
 - [The Accredited Symbian Developer Primer: Fundamentals of Symbian OS](https://www.wiley.com/en-us/The+Accredited+Symbian+Developer+Primer%3A+Fundamentals+of+Symbian+OS-p-9780470058695) - Official textbook for Symbian OS development.
 - [Quick Recipes on Symbian OS: Mastering C++ Smartphone Development](https://www.oreilly.com/library/view/quick-recipes-on/9780470997833/) - Fast-paced book covering both S60 and UIQ. Assumes a strong foundation in C++.
