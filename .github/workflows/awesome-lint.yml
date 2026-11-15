@@ -1,4 +1,5 @@
-on:
+on: 
+  workflow_dispatch: 
   push:
     branches: [main]
     paths:
@@ -16,3 +17,7 @@ jobs:
           fetch-depth: 0
       - name: awesome-lint
         run: npx awesome-lint readme.md
+      - name: Lychee Broken Link Checker
+        uses: lycheeverse/lychee-action@v2.9.0
+        with:
+            args: --accept '100..=103,200..=299,403' './**/*.md' 
